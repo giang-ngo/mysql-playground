@@ -1,0 +1,7 @@
+CREATE DATABASE pet_shop;
+
+CREATE DATABASE SlimeStore;
+
+CREATE DATABASE chicken_coop;
+
+SHOW DATABASES;
